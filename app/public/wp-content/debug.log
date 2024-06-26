@@ -1,0 +1,1 @@
+[26-Jun-2024 17:01:55 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión in C:\Users\Chuvan\Local Sites\dd-wordpress-test-ivan\app\public\wp-includes\class-wpdb.php on line 1987
